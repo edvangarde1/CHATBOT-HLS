@@ -32,8 +32,8 @@ Chatbot.init({
       "width": 500,
       "fontSize": 15,
       "starterPrompts": [
-        "Tôi cần Bài giảng Đại số",
-        "Tôi cần Giáo trình tin đại cương"
+        "Tôi cần Bài giảng Giải tích 1",
+        "Tôi cần Giáo trình Đại số"
       ],
       "starterPromptFontSize": 14,
       "clearChatOnReload": false,
