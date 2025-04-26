@@ -33,7 +33,7 @@ Chatbot.init({
       "fontSize": 15,
       "starterPrompts": [
         "Tôi cần Bài giảng Đại số",
-        "Tôi cần Giáo trình PLĐC"
+        "Tôi cần Giáo trình tin đại cương"
       ],
       "starterPromptFontSize": 14,
       "clearChatOnReload": false,
