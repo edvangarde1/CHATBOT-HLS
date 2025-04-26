@@ -11,7 +11,7 @@ Chatbot.init({
       "customIconSrc": "img/logochatbot.png",
       "autoWindowOpen": {
         "autoOpen": true,
-        "openDelay": 2
+        "openDelay": 1
       }
     },
     "tooltip": {
