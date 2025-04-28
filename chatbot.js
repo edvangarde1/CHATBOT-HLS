@@ -8,7 +8,7 @@ Chatbot.init({
       "bottom": 15,
       "size": 65,
       "iconColor": "#FFFFFF",
-      "customIconSrc": "img/logochatbot.png",
+      "customIconSrc": "img/agent2.png",
       "autoWindowOpen": {
         "autoOpen": true,
         "openDelay": 1
@@ -24,7 +24,7 @@ Chatbot.init({
     "chatWindow": {
       "showTitle": true,
       "title": "EDVANGARDE AGENT",
-      "titleAvatarSrc": "img/logochatbot.png",
+      "titleAvatarSrc": "img/agent2.png",
       "welcomeMessage": "Chào bạn, bạn đang cần tìm gì ạ?",
       "errorMessage": "This is a custom error message",
       "backgroundColor": "#ffffff",
@@ -41,13 +41,13 @@ Chatbot.init({
         "backgroundColor": "#F0F0F9",
         "textColor": "#050505",
         "showAvatar": true,
-        "avatarSrc": "img/logochatbot.png"
+        "avatarSrc": "img/agent1.png"
       },
       "userMessage": {
         "backgroundColor": "#F0F0F9",
         "textColor": "#050505",
         "showAvatar": true,
-        "avatarSrc": "https://www.svgrepo.com/show/339963/chat-bot.svg"
+        "avatarSrc": "img/user.png"
       },
       "textInput": {
         "placeholder": "Type your query",
