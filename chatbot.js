@@ -1,6 +1,6 @@
 import Chatbot from "https://edvangarde1.github.io/chatbot/updated_embed.js";
 Chatbot.init({
-  "n8nChatUrl": "https://nhuan99.app.n8n.cloud/webhook/4eaf2e3a-2316-4e3a-ada4-ed8706f06238/chat",
+  "n8nChatUrl": "https://nhuan2000101.app.n8n.cloud/webhook/4eaf2e3a-2316-4e3a-ada4-ed8706f06238/chat",
   "theme": {
     "button": {
       "backgroundColor": "#111173",
