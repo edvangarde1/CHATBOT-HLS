@@ -25,7 +25,13 @@ Chatbot.init({
       "showTitle": true,
       "title": "EDVANGARDE AGENT",
       "titleAvatarSrc": "img/agent2.png",
-      "welcomeMessage": "Chào bạn, bạn đang cần tìm gì ạ?",
+      "welcomeMessage": "Chào bạn! Mình là Edvangarde, một chatbot AI chuyên tư vấn học liệu và thông tin tuyển sinh cho sinh viên Khoa Khoa học và Công nghệ Giáo dục. Mình có thể hỗ trợ bạn trong các lĩnh vực sau:
+
+**📗Tìm kiếm tài liệu học tập**
+
+**📖Thông tin tuyển sinh**
+
+**Nếu bạn có câu hỏi cụ thể nào hoặc cần hỗ trợ về một lĩnh vực nào đó, hãy cho mình biết nhé! 😊**",
       "errorMessage": "This is a custom error message",
       "backgroundColor": "#ffffff",
       "height": 609,
