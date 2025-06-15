@@ -4,7 +4,7 @@ Chatbot.init({
   "theme": {
     "button": {
       "backgroundColor": "#111173",
-      "right": 5,
+      "right": 10,
       "bottom": 15,
       "size": 65,
       "iconColor": "#FFFFFF",
@@ -28,12 +28,12 @@ Chatbot.init({
       "welcomeMessage": "Chào bạn! Mình là Edvangarde, một Chatbot AI chuyên tư vấn học liệu và thông tin tuyển sinh cho sinh viên Khoa Khoa học và Công nghệ Giáo dục. Mình có thể hỗ trợ bạn điều gì hãy cho mình biết nhé! 😊",
       "errorMessage": "This is a custom error message",
       "backgroundColor": "#ffffff",
-      "height": 609,
+      "height": 600,
       "width": 500,
       "fontSize": 15,
       "starterPrompts": [
-        "Tôi cần Bài giảng Giải tích 1",
-        "Tôi cần Giáo trình Đại số"
+        "Tôi cần VIDEO Bài giảng Giải tích 1",
+        "Tôi cần Đề thi cuối kỳ Nhóm ngành 2 Đại số"
       ],
       "starterPromptFontSize": 14,
       "clearChatOnReload": false,
@@ -54,8 +54,8 @@ Chatbot.init({
         "backgroundColor": "#ffffff",
         "textColor": "#1e1e1f",
         "sendButtonColor": "#111173",
-        "maxChars": 100,
-        "maxCharsWarningMessage": "Bạn đã vượt quá giới hạn ký tự. Vui lòng nhập ít hơn 100 ký tự.",
+        "maxChars": 200,
+        "maxCharsWarningMessage": "Bạn đã vượt quá giới hạn ký tự. Vui lòng nhập ít hơn 200 ký tự.",
         "autoFocus": false
       }
     }
