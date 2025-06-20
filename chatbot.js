@@ -5,7 +5,7 @@ Chatbot.init({
     "button": {
       "backgroundColor": "#111173",
       "right": 20,
-      "bottom": 25,
+      "bottom": 20,
       "size": 60,
       "iconColor": "#FFFFFF",
       "customIconSrc": "img/agent2.png",
@@ -29,7 +29,7 @@ Chatbot.init({
       "errorMessage": "This is a custom error message",
       "backgroundColor": "#ffffff",
       "height": 600,
-      "width": 540,
+      "width": 600,
       "fontSize": 14,
       "starterPrompts": [
         "Tôi cần VIDEO Bài giảng Giải tích 1 giúp tôi đạt điểm B trở lên",
