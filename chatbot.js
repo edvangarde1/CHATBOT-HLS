@@ -4,9 +4,9 @@ Chatbot.init({
   "theme": {
     "button": {
       "backgroundColor": "#111173",
-      "right": 10,
-      "bottom": 15,
-      "size": 65,
+      "right": 20,
+      "bottom": 25,
+      "size": 60,
       "iconColor": "#FFFFFF",
       "customIconSrc": "img/agent2.png",
       "autoWindowOpen": {
@@ -29,13 +29,13 @@ Chatbot.init({
       "errorMessage": "This is a custom error message",
       "backgroundColor": "#ffffff",
       "height": 600,
-      "width": 500,
-      "fontSize": 15,
+      "width": 540,
+      "fontSize": 14,
       "starterPrompts": [
-        "Tôi cần VIDEO Bài giảng Giải tích 1",
-        "Tôi cần Đề thi cuối kỳ Nhóm ngành 2 Đại số"
+        "Tôi cần VIDEO Bài giảng Giải tích 1 giúp tôi đạt điểm B trở lên",
+        "Tôi cần Đề thi cuối kỳ Nhóm ngành 2 Đại số dễ hiểu nhất giúp tôi đạt điểm A"
       ],
-      "starterPromptFontSize": 14,
+      "starterPromptFontSize": 13,
       "clearChatOnReload": false,
       "botMessage": {
         "backgroundColor": "#F0F0F9",
