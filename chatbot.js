@@ -32,7 +32,7 @@ Chatbot.init({
       "width": 600,
       "fontSize": 14,
       "starterPrompts": [
-        "Tôi cần VIDEO Bài giảng Giải tích 1 giúp tôi đạt điểm B trở lên",
+        "Tôi cần VIDEO Bài giảng Giải tích 3 giúp tôi đạt điểm B trở lên",
         "Tôi cần Đề thi cuối kỳ Nhóm ngành 2 Đại số dễ hiểu nhất giúp tôi đạt điểm A"
       ],
       "starterPromptFontSize": 13,
