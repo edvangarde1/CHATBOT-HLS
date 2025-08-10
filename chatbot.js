@@ -1,6 +1,6 @@
 import Chatbot from "https://edvangarde1.github.io/chatbot/updated_embed.js";
 Chatbot.init({
-  "n8nChatUrl": "https://edvangarde0001.app.n8n.cloud/webhook/8bbeef7f-a7dc-4b49-8797-db7d9cddf391/chat",
+  "n8nChatUrl": "https://edvangarde002.app.n8n.cloud/webhook/8bbeef7f-a7dc-4b49-8797-db7d9cddf391/chat",
   "theme": {
     "button": {
       "backgroundColor": "#111173",
@@ -61,3 +61,4 @@ Chatbot.init({
     }
   }
 });
+
