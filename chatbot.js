@@ -32,8 +32,9 @@ Chatbot.init({
       "width": 600,
       "fontSize": 14,
       "starterPrompts": [
-        "Tôi cần VIDEO Bài giảng Giải tích 3 giúp tôi đạt điểm B trở lên",
-        "Tôi cần Đề thi cuối kỳ Nhóm ngành 2 Đại số dễ hiểu nhất giúp tôi đạt điểm A"
+        "Tôi cần VIDEO Bài giảng Giải tích 3 giúp tôi đạt điểm từ B đến A",
+        "Tôi cần Đề thi cuối kỳ Nhóm ngành 2 Đại số dễ hiểu nhất giúp tôi đạt điểm từ A đến A+",
+        "Tôi cần tìm slide thuyết trình Vật lý đại cương 2 do chuyên viên thiết kế"
       ],
       "starterPromptFontSize": 13,
       "clearChatOnReload": false,
@@ -61,4 +62,5 @@ Chatbot.init({
     }
   }
 });
+
 
