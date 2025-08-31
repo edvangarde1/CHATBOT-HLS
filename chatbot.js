@@ -25,15 +25,16 @@ import Chatbot from "https://nhuanlv.github.io/chatbot-phone/updated_embed.js";
 			"showTitle": true,
 			"title": "EDVANGARDE AGENT",
 			"titleAvatarSrc": "img/agent2.png",
-			"welcomeMessage": "Chào bạn! Mình là SMARTVANTAGE, một chatbot AI chuyên tư vấn điện thoại. Nếu bạn cần tư vấn điện thoại hoặc cần so sánh các mẫu điện thoại với nhau, hãy cho mình biết nhé!☺️",
+			"welcomeMessage": "Chào bạn! Mình là Edvangarde, một Chatbot AI chuyên tư vấn học liệu của Khoa Khoa học và Công nghệ Giáo dục. Mình có thể hỗ trợ bạn điều gì hãy cho mình biết nhé! 😊",
 			"errorMessage": "This is a custom error message",
 			"backgroundColor": "#ffffff",
 			"height": 600,
 			"width": 900,
 			"fontSize": 15,
 			"starterPrompts": [
-			  "Tư vấn tôi điện thoại chơi game.",
-			  "Tư vấn tôi điện thoại tầm giá 5 triệu"
+			"Tôi cần tài liệu Giải tích 3 phù hợp với cách học của tôi là XEM VIDEO",
+            "Tôi cần Đề thi cuối kỳ Nhóm ngành 2 Đại số dễ hiểu nhất giúp tôi đạt điểm từ A đến A+",
+            "Tôi cần tìm slide thuyết trình Vật lý đại cương 2 do chuyên viên thiết kế"
 			],
 			"starterPromptFontSize": 14,
 			"clearChatOnReload": false,
@@ -61,3 +62,4 @@ import Chatbot from "https://nhuanlv.github.io/chatbot-phone/updated_embed.js";
 		  }
 		}
 	  });
+
