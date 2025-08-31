@@ -1,6 +1,6 @@
 import Chatbot from "https://nhuanlv.github.io/chatbot-phone/updated_embed.js";
 	  Chatbot.init({
-		"n8nChatUrl": "https://ctybt09.app.n8n.cloud/webhook/2698a38c-1bcb-4a0d-9659-07533500196e/chat",
+		"n8nChatUrl": "https://ctybt09.app.n8n.cloud/webhook/bc6e7dd4-1ec4-4c11-89c5-d67f7837d842/chat",
 		"theme": {
 		  "button": {
 			"backgroundColor": "#111173",
@@ -62,5 +62,6 @@ import Chatbot from "https://nhuanlv.github.io/chatbot-phone/updated_embed.js";
 		  }
 		}
 	  });
+
 
 
